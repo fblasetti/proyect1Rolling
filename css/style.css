@@ -30,3 +30,8 @@ footer{
 #colorletter{
     color: white
 }
+
+.mapa {
+    background: url(../img/mapa.png);
+  }
+  
